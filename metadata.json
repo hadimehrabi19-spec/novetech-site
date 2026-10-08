@@ -1,0 +1,7 @@
+{
+  "name": "NOVATECH - فروشگاه تخصصی دیجیتال نواتک",
+  "description": "فروشگاه اینترنتی تخصصی لوازم دیجیتال، لپ‌تاپ، گوشی هوشمند، تبلت و تجهیزات گیمینگ با ضمانت اصالت کالا و ارسال اکسپرس",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
